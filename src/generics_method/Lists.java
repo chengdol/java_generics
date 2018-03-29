@@ -24,7 +24,7 @@ public class Lists
 		System.out.println(Lists.toList("1", "2", "3"));
 		// explicitly give the type
 		// sometimes this is necessary
-		System.out.println(Lists.<String>toList("1", "2", "3"));
+		System.out.println(Lists.<Number>toList(1, 2.45, -34.9));
 		
 	}
 }
