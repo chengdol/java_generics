@@ -12,5 +12,6 @@ public class demo
 		// caught at run time
 		nums[0] = 1.91;
 		assert Arrays.toString(nums).equals("[1.99, 2, 3, 4, 5]");
+
 	}
 }
