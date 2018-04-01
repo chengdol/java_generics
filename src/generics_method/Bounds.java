@@ -5,6 +5,7 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
 
+// comparison and bonuds
 public class Bounds
 {
 	// type variable T only bound with extends, never use super!
